@@ -6,6 +6,7 @@ Here’s a clean and well-structured **README.md** for your project:
 
 An AI-powered investment analysis app that allows you to compare the performance of two stocks and generate detailed reports. Built with **Streamlit** for the user interface and powered by **OpenAI GPT-4o** with **YFinance Tools** for stock data.
 
+[Demo](https://bravyn-investorr-app-5aervc.streamlit.app/)
 ---
 
 ## 🚀 Features  
